@@ -1,5 +1,5 @@
 # Medium-Clone
 
-##Bootstrap kullanarak Patika için yapılmıştır
+## Bootstrap kullanarak Patika için yapılmıştır
 
-##Fontawesome kullanılmıştır
+## Fontawesome kullanılmıştır
