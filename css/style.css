@@ -1,0 +1,28 @@
+.bg-head {
+    background-color: #FFC017;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+
+ul > li {
+    margin-right: 5px;
+}
+
+.user-pp {
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+}
+
+.conteiner {
+    width: 95%;
+
+}
+
+.no {
+    font-size: larger;
+    color:rgba(114, 112, 108, 0.701);
+}
